@@ -8,3 +8,6 @@ https://github.com/elliottzheng/face-detection
 
 The code of the filters is available at:
 https://github.com/LorisNanni/Face-detection-ensemble-with-methods-using-depth-information-to-filter-false-positives
+
+The "fog dataset" is available at 
+https://zenodo.org/record/7613973#.Y-VarnbMI2x
